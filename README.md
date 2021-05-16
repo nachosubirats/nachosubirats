@@ -16,11 +16,13 @@
 </p>
 
 <hr>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <h3> 
     🇦🇷 &nbsp;About Me 
 </h3>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🎓 &nbsp;I'm currently studying **Computer Science Engineering** at the Argentine University of Enterprise.
 - 🌱 &nbsp;I’m currently learning **Data Analytics and Data Science**.
