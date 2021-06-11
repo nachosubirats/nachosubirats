@@ -27,8 +27,6 @@
 - 🎓 &nbsp;I'm currently studying **Computer Science Engineering** at the Argentine University of Enterprise.
 - 🌱 &nbsp;I’m currently learning **Data Analytics and Data Science**.
 - 🦉 &nbsp;I'm a night owl. Love working under the light of the moon.
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png?raw=true" width="20px"/> &nbsp; Hogwarts House : **Hufflepuff** <img src="https://static.wikia.nocookie.net/esharrypotter/images/4/42/Hufflepuff_Pottermore.png/revision/latest?cb=20141001131135" width="20px">
-<p>&nbsp;</p>
 
 
 <hr>
